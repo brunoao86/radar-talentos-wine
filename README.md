@@ -6,7 +6,7 @@ Um pouco do conteúdo do Radar de Talentos Wine apresentado na FAESA no dia 17/0
 
 Salve, salve galera! Beleza?
 
-Conforme prometido, estou adicionando aqui algumas informações úteis para que vocês possam relembrar o que foi dito no curso e também interagir comigo (tirar alguma dúvida ou pedir review de código).
+Conforme prometido, estou adicionando aqui algumas informações úteis para que vocês possam relembrar o que foi dito no curso e também interagir comigo (tirar alguma dúvida ou pedir review de código). Feedbacks sobre a apresentação também serão muito bem vindos.
 
 Espero que tenham gostado do curso. Qualquer dúvida, não deixem de perguntar.
 
